@@ -64,3 +64,7 @@ How to Use:
 	•	Place Markers: Align the controller with key landmarks (inner ear, eye corner, nostril, chin) and place markers using the trigger.
 	•	Adjust Markers: Delete misplaced markers with the bumper, if needed.
 	•	TMS Targeting: Align the coil with the skull, shoot a raycast from the coil to the brain target, and observe the color-coded feedback and displayed metrics for positioning accuracy.
+
+
+### **GitHub Repository**:
+You can view the full source code and additional project files on the GitHub repository here: [DemoVisualizationTMS GitHub Repo](https://github.com/emmweber/DemoVisualizationTMS).
